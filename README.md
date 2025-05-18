@@ -1,5 +1,6 @@
 # CTFBot — Your Discord CTF Event Assistant 🤖
-![Gemini_Generated_Image_xvg0v8xvg0v8xvg0](https://github.com/user-attachments/assets/4bf22c02-bb5d-44ac-82f4-ac995bec8f2f)
+<img src="![Gemini_Generated_Image_xvg0v8xvg0v8xvg0](https://github.com/user-attachments/assets/b6982f3d-39b4-44d7-8ec2-06f8a3e1f911)
+" width="400" hieght="400" />
 
 
 CTFBot is a lightweight Discord bot designed to keep your community updated with the latest Capture The Flag (CTF) competitions. It scrapes CTFtime.org and shares upcoming event details right inside your Discord server.
